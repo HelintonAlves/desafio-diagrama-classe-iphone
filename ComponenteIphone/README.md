@@ -3,11 +3,11 @@
 
 ## TECNOLOGIAS USADAS
 💻Principais tecnologias:
-`UML
-`JAVA
-`Intellij
-`Lucidchart
-`Git & GitHub
+- UML
+- JAVA
+- Intellij
+- Lucidchart
+- Git & GitHub
 
 ## CONCLUSÃO 
 📚Criado o modelo de Diagrama UML e deixando em uma pasta dentro do projeto (UML). Criada as classes em uma packged (componentes).
